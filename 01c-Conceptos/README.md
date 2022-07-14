@@ -74,6 +74,7 @@ Nos podemos dar cuenta que algo es un statement, porque si lo *pegamos* en la co
   ```
 
 > El **operador ternario**, es una expresión o un statement? ej: (numero > 10 ? 'mayor' : 'menor');
+       Es una Expresión lógica que devuelve un valor booleano
 
 ## Expressions
 
