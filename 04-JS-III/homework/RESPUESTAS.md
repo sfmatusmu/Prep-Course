@@ -1,0 +1,3 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: Son objetos similares a una lista cuyo que nos entrega formas para efectuar operaciones de recorrido y de cambio.    La longitud y el tipo de los elementos de un array son variables
